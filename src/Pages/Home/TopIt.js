@@ -16,7 +16,7 @@ const TopIt = () => {
                         <h2 className="card-title">TigerITBD</h2>
                         <p className='text-start'>Tiger it has 10 years of experience working in software development.</p>
                         <div className="card-actions justify-end">
-                            <button className="btn btn-primary">Buy Now</button>
+                            <button className="btn btn-primary">Visit Now</button>
                         </div>
                     </div>
                 </div>
@@ -28,7 +28,7 @@ const TopIt = () => {
                         <h2 className="card-title">LeadSoft</h2>
                         <p className='text-start'>The mission of the company is to realize the customer’s business and delivery result through their experience.</p>
                         <div className="card-actions justify-end">
-                            <button className="btn btn-primary">Buy Now</button>
+                            <button className="btn btn-primary">Visit Now</button>
                         </div>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ const TopIt = () => {
                         <h2 className="card-title">KAZ Software</h2>
                         <p className='text-start'> It is one of the leading custom software companies in Bangladesh in order to create ordinary software.</p>
                         <div className="card-actions justify-end">
-                            <button className="btn btn-primary">Buy Now</button>
+                            <button className="btn btn-primary">Visit Now</button>
                         </div>
                     </div>
                 </div>

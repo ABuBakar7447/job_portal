@@ -8,7 +8,7 @@ const Fresher = () => {
     return (
         <div>
             <div className='w-11/12 grid gap-6 gird-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-auto my-5 '>
-                <div class="col-span-3 md:col-span-3 lg:col-span-2 ...">
+                <div className="col-span-3 md:col-span-3 lg:col-span-2 ...">
 
                 <div>
                 <h1 className='font-bold text-4xl text-white my-5 underline'>Beginner Level</h1>
